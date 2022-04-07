@@ -12,10 +12,9 @@ menu:
 {{< blocks/section type="section" color="white">}}
 We have two workshops: 
 
- * Our [group workshop](multiplayer), also known as 'multiplayer', and
- * Our [self-guided workshop](single-player), also known as 'singleplayer'.
+ * Our 'multiplayer' [group workshop](multiplayer), for more than one participant
+ * Our 'singleplayer' [self-guided workshop](single-player), for single participants
 
-These workshops are designed to be separate entites, based on the number of participants (many, or one.)
 
 {{< /blocks/section >}}
 
